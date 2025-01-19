@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tookser
 - 👀 I’m interested in python, machine learning, biology, psychology.
-- 🌱 I’m currently learning machine learning and ai safety :)
+- 🌱 I’m currently learning machine learning (NLP, LLM) and ai safety :)
 - 📫 How to reach me: https://tookser.github.io/about/
 
 <!---
